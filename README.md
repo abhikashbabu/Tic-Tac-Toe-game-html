@@ -1,2 +1,5 @@
 # Tic-Tac-Toe-game-html
- Tic Tac Toe Game 
+
+A classic game built using HTML, CSS & JavaScript.
+
+
